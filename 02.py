@@ -1,4 +1,4 @@
-"http://www.pythonchallenge.com/pc/def/ocr.html"
+# http://www.pythonchallenge.com/pc/def/ocr.html
 # find rare characters in the mess 02_text.txt
 with open("02_text.txt", "r") as f:
     data = f.read()

@@ -1,4 +1,4 @@
-"http://www.pythonchallenge.com/pc/def/linkedlist.php"
+# http://www.pythonchallenge.com/pc/def/linkedlist.php
 
 import urllib.request
 import re

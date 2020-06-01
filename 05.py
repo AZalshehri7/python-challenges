@@ -1,6 +1,6 @@
-"http://www.pythonchallenge.com/pc/def/peak.html"
+# http://www.pythonchallenge.com/pc/def/peak.html
 
-"<!-- peak hell sounds familiar ? -->"
+# <!-- peak hell sounds familiar ? -->
 import pickle
 import urllib.request
 
