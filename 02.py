@@ -1,3 +1,4 @@
+"http://www.pythonchallenge.com/pc/def/ocr.html"
 # find rare characters in the mess 02_text.txt
 with open("02_text.txt", "r") as f:
     data = f.read()
@@ -16,3 +17,4 @@ for char in data:
 
 # printing the string which contains only alphabets
 print(key)
+# key = equality.html
